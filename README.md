@@ -1,2 +1,2 @@
 # tmux-conf
-my tmux.conf file
+this is my custom tmux color theme file.
